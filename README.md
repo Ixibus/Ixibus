@@ -6,7 +6,9 @@ Hello Hello 🙂
 
 💪🏾 Actuellement développeur full stack 🧑🏾‍💻
 
-💪🏾 Désirant être Ingénieur en architecture et développement logiciel et web (Spécialisation UX/UI ou Cybersécurité) 🎯✨
+💪🏾 En voie pour être expert en architecture et développement logiciel spécialisé dans le DevOps 🎯✨*
+
+Ouvert à toutes opportunités d'alternance en développement web Fullstack dès juin 2026 !
 
 ## 🛠️🤝 Compétences 
 <table><tr>
