@@ -4,16 +4,23 @@
 
 Hello Hello 🙂
 
-💪🏾 Actuellement développeur full stack 🧑🏾‍💻
+Développeur full stack récemment diplomé du RNCP 6 Concepteur et Développeur d'Application. Je suis actuellement Encadrant à l'ADA Tech School et j'enseigne les technologies et logiciels relevant des compétences de base full stack (HTML, CSS, JavaScript, l'algorithme, terminal, Bash, Git, Github et VScode).
 
-💪🏾 En voie pour être expert en architecture et développement logiciel spécialisé dans le DevOps 🎯✨*
+J'entame deux ans d'études afin d'obtenir le RNCP 7 d'Expert en Architecture et Développement Logiciel. Je suis donc ouvert à toutes opprotunités pour une alternance de deux en tant que développeur full stack.
 
-Ouvert à toutes opportunités d'alternance en développement web Fullstack dès juin 2026 !
+Mes stacks de prédilections sont TypeScript, React, Java / Spring-Boot, PostgreSQL, Supabase et Docker. Je suis particulièrement à l'aise sur le dévelopepement d'application engageant les problématiques de logiques métiers de gestion de rôles, le système d'inscription par la création de compte (flow Onboarding), la connexion à un profil personnalisé, le routage de pages, la gestion des endpoints et les logiques CRUD.
+
+J'ambitionne à l'avenir d'être expert en architecture et développement logiciel spécialisé dans le DevOps 🎯✨
+
+Me Contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franck-corcher-61b36440/)
+
 
 ## 🛠️🤝 Compétences 
 <table><tr>
 <td>
-<h3>🛠️ Compétences</h3>
+<h3>🛠️ Stacks Techniques</h3>
 <div>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
@@ -38,17 +45,24 @@ Ouvert à toutes opportunités d'alternance en développement web Fullstack dès
 </div>
 </td>
 <td>
-<h3>🤝 Compétences</h3>
+<h3>🤝 Compétences transverses</h3>
 <ul>
 <li>Pair-programming</li>
-<li>Méthodes agiles</li>
+<li>Méthodes Scrum et Agiles</li>
 <li>Design UX</li>
 <li>Conception</li>
-<li>Architecture backend et frontend</li>
+<li>Architecture front end modulaire</li>
+<li>Architecture back end N-tiers</li>
 <li>Middleware</li>
+<li>JWT</li>
+<li>Argon2</li>
+<li>Pratiques OWASP</li>
 <li>GitFlow</li>
 <li>Base de données</li>
 <li>API REST</li>
+<li>MVC</li>
+<li>tests unitaires & intégration</li>
+<li>Accesibilité/li>
 <li>Communication</li>
 <li>Travail d’équipe</li>
 <li>Résolution de problèmes</li>
@@ -64,4 +78,3 @@ Ouvert à toutes opportunités d'alternance en développement web Fullstack dès
 
 ## 🔗 Liens
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Ixibus)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franck-corcher-61b36440/)
